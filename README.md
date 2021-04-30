@@ -114,7 +114,7 @@ Become familiar with the following chart:
     <td>yes</td>
   </tr>
   <tr>
-    <td>{:hi=>"there"</td>
+    <td>{:hi=>"there"}</td>
     <td>yes</td>
   </tr>
 </table>
